@@ -1,0 +1,13 @@
+body {background-image: url(https://images.unsplash.com/photo-1549840161-ceff51dabb2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=748&q=80);
+background-size: cover;}
+h2 {color: #B8B80B;
+text-align: center;
+border: 5px solid rgb(255, 0, 0);
+cursor: grab;}
+p {color: #FFFFFF;
+  line-height: 40px;
+  font-style: oblique;
+  font-weight: 400;
+  font-size: 110%;
+  font-family: 'Pacifico', cursive;}
+img {float: right;}
